@@ -1,6 +1,5 @@
 
 - [PPT](https://github.com/op7418/guizang-ppt-skill)
-
 - [联网搜索](https://github.com/eze-is/web-access)
   > 支持使用本地 Chrome 浏览器
 
@@ -19,3 +18,10 @@
 - [Markdown 转 Html](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-markdown-to-html)
 - [图片压缩](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-compress-image)
 - ...
+
+
+### 其他热门 SKILL 仓库
+- [云舒 Skills](https://github.com/yunshu0909/yunshu_skillshub)
+- [OpenClaw Skills](https://github.com/openclaw/skills)
+- https://github.com/cafe3310/public-agent-skills
+- https://github.com/affaan-m/everything-claude-code
