@@ -1,8 +1,4 @@
 
-- [PPT](https://github.com/op7418/guizang-ppt-skill)
-- [联网搜索](https://github.com/eze-is/web-access)
-  > 支持使用本地 Chrome 浏览器
-
 ### [Android 官方 SKILL](https://github.com/android/skills)
 - [agp-9-upgrade](https://github.com/android/skills/tree/main/build/agp/agp-9-upgrade)
 - [migrate-xml-views-to-jetpack-compose](https://github.com/android/skills/tree/main/jetpack-compose/migration/migrate-xml-views-to-jetpack-compose)
@@ -18,6 +14,13 @@
 - [Markdown 转 Html](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-markdown-to-html)
 - [图片压缩](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-compress-image)
 - ...
+
+### 其他
+- [PPT 生成](https://github.com/op7418/guizang-ppt-skill)
+- [Agent 联网搜索](https://github.com/eze-is/web-access)
+  > 支持使用本地 Chrome 浏览器
+- [公众号起号](https://github.com/kangarooking/kangarooking-skills/tree/main/ai-article-daily)
+
 
 
 ### 其他热门 SKILL 仓库
