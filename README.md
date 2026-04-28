@@ -15,7 +15,7 @@
 - [图片压缩](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-compress-image)
 - ...
 
-### [袋鼠帝 SKILLS]
+### 袋鼠帝 SKILLS
 - [把一本书蒸馏成一组可执行的 Agent Skills](https://github.com/kangarooking/cangjie-skill)
 - [x-skills](https://github.com/kangarooking/x-skills)
 - [把一个模糊的视觉需求，直接变成可落地生成的高质量设计图](https://github.com/kangarooking/design-image-studio)
