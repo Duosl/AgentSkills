@@ -15,6 +15,8 @@
 - [图片压缩](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-compress-image)
 - ...
 
+### [Kotlin 协程 SKILL](https://github.com/santimattius/structured-coroutines/blob/main/kotlin-coroutines-skill/SKILL.md)
+
 ### 其他
 - [PPT 生成](https://github.com/op7418/guizang-ppt-skill)
 - [Agent 联网搜索](https://github.com/eze-is/web-access)
