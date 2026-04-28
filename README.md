@@ -16,6 +16,7 @@
 - ...
 
 ### [Kotlin 协程 SKILL](https://github.com/santimattius/structured-coroutines/blob/main/kotlin-coroutines-skill/SKILL.md)
+### [飞书 Cli Skills](https://github.com/larksuite/cli/tree/main/skills)
 
 ### 其他
 - [PPT 生成](https://github.com/op7418/guizang-ppt-skill)
