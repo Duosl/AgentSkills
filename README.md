@@ -29,6 +29,7 @@
 - [Agent 联网搜索](https://github.com/eze-is/web-access)
   > 支持使用本地 Chrome 浏览器
 - [公众号起号](https://github.com/kangarooking/kangarooking-skills/tree/main/ai-article-daily)
+- [Anthropic Frontend Design](https://github.com/anthropics/claude-code/tree/main/plugins%2Ffrontend-design%2Fskills)
 
 
 
