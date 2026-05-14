@@ -42,6 +42,7 @@
 
 ### [Draco Skills](https://github.com/dracohu2025-cloud/draco-skills-collection)
 
+### [小红书质检 Skill](https://github.com/4682B4LEE/xiaohongshu-content-checker)
 
 ### [Kotlin 协程 SKILL](https://github.com/santimattius/structured-coroutines/blob/main/kotlin-coroutines-skill/SKILL.md)
 ### [飞书 Cli Skills](https://github.com/larksuite/cli/tree/main/skills)
